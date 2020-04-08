@@ -1,7 +1,6 @@
 # Xcode-theme
 My custom Xcode theme
 
-![image-1](https://i.postimg.cc/wMZ9xxtq/Screenshot-2020-04-08-at-19-31-40.png)
 ![image-2](https://i.postimg.cc/P5mdhjdH/Screenshot-2020-04-08-at-19-32-11.png)
 ![image-3](https://i.postimg.cc/9XnmYbL6/Screenshot-2020-04-08-at-19-33-03.png)
 ![image-4](https://i.postimg.cc/Hs8pZMKV/Screenshot-2020-04-08-at-19-33-19.png)
