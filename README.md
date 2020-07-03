@@ -1,12 +1,21 @@
-# Xcode-theme
-My custom Xcode theme
+<h1>
+    <img align="left" width="50" src="../assets/paintBrush.png" alt="Xcode color theme"/> Xcode Color Theme
+</h1>
 
-![image-2](https://i.postimg.cc/P5mdhjdH/Screenshot-2020-04-08-at-19-32-11.png)
-![image-3](https://i.postimg.cc/9XnmYbL6/Screenshot-2020-04-08-at-19-33-03.png)
-![image-4](https://i.postimg.cc/Hs8pZMKV/Screenshot-2020-04-08-at-19-33-19.png)
+### Advantages
+ - Each type has it's own color that makes much easie to recognize type in code
+ - Nice color combination makes code looks cool in both dark and light theme
+ - Using [Fira Code 2](https://github.com/tonsky/FiraCode) font for programming ligatures 
+ 
+ ## Some examples
+
+![example-1](../assets/1.png)
+![example-2](../assets/2.png)
+![example-3](../assets/3.png)
 
 Installation
 ---- 
+To enable ligatures install [**Fira Code 2**](https://github.com/tonsky/FiraCode) font.
 
 ### Using the installation script
 
