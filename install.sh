@@ -1,4 +1,11 @@
 #!/usr/bin/env bash
 
-mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
-cp *.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+destination="$HOME/Library/Developer/Xcode/UserData/FontAndColorThemes"
+
+if [[ ! -d $destination ]]; then
+    mkdir -p ${destination}
+fi
+
+find . -name "*.xccolortheme" -exec cp {} ${destination} \;
+
+echo "Copied to: ${destination}!"
